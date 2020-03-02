@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Oenophilia</string>
+    <string name="wine_name">Nama Anggur</string>
+    <string name="avg_price">Harga Rata-rata</string>
+    <string name="about">About</string>
+    <string name="profile_name">Haris Situmeang</string>
+    <string name="profile_email">haris.situmeang.1412@gmail.com</string>
+    <string name="wine_desc">Deskripsi</string>
+</resources>
